@@ -8,7 +8,7 @@ sql
 
 Copy code
 
-pkg update
+$pkg update
 
 Install the required dependencies by running the following command:
 
